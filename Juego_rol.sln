@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juego_rol", "Juego_rol\Juego_rol.csproj", "{97920367-F5FC-451F-9669-A53C1BD9EC2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementacion", "Implementacion\Implementacion.csproj", "{DF361AC0-16E7-4C2D-8D92-700B79553160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juego.Interfaces", "Juego.Interfaces\Juego.Interfaces.csproj", "{BF4CFDA7-5304-4E1F-B57A-C345CC137A67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementacion2", "Implementacion2\Implementacion2.csproj", "{A9F16DFF-93B5-45FF-9FCD-2149BB8EF810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninject.Bindings", "NinjectFramework\Ninject.Bindings.csproj", "{018CF4EC-9F2D-4266-976F-28E2242D39CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementacionA", "ImplementacionA\ImplementacionA.csproj", "{3A16E093-99AE-428C-B587-8127C5525281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97920367-F5FC-451F-9669-A53C1BD9EC2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97920367-F5FC-451F-9669-A53C1BD9EC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97920367-F5FC-451F-9669-A53C1BD9EC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97920367-F5FC-451F-9669-A53C1BD9EC2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF361AC0-16E7-4C2D-8D92-700B79553160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF361AC0-16E7-4C2D-8D92-700B79553160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF361AC0-16E7-4C2D-8D92-700B79553160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF361AC0-16E7-4C2D-8D92-700B79553160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF4CFDA7-5304-4E1F-B57A-C345CC137A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4CFDA7-5304-4E1F-B57A-C345CC137A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4CFDA7-5304-4E1F-B57A-C345CC137A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4CFDA7-5304-4E1F-B57A-C345CC137A67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9F16DFF-93B5-45FF-9FCD-2149BB8EF810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F16DFF-93B5-45FF-9FCD-2149BB8EF810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F16DFF-93B5-45FF-9FCD-2149BB8EF810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F16DFF-93B5-45FF-9FCD-2149BB8EF810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018CF4EC-9F2D-4266-976F-28E2242D39CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018CF4EC-9F2D-4266-976F-28E2242D39CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018CF4EC-9F2D-4266-976F-28E2242D39CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018CF4EC-9F2D-4266-976F-28E2242D39CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A16E093-99AE-428C-B587-8127C5525281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A16E093-99AE-428C-B587-8127C5525281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A16E093-99AE-428C-B587-8127C5525281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A16E093-99AE-428C-B587-8127C5525281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9871BCFA-4242-4D10-9211-7E090376BF87}
+	EndGlobalSection
+EndGlobal
